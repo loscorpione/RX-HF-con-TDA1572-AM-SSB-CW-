@@ -1,0 +1,61 @@
+Reference;Qty;Value;Footprint
+C1,C12;2;100nF;Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm
+C2,C6,C15,C20,C21,C30,C31,C34,C35;9;100nF;Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm
+C3,C36;2;47uF 16V;Capacitor_THT:CP_Radial_D6.3mm_P2.50mm
+C4,C16;2;220pF;Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm
+C5;1;470uF 16V;Capacitor_THT:CP_Radial_D8.0mm_P3.50mm
+C7,C8;2;100nF;Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm
+C9;1;1nF;Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm
+C10,C14;2;220nF;Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm
+C11;1;10nF;Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm
+C13;1;100uF 16V;Capacitor_THT:CP_Radial_D5.0mm_P2.00mm
+C17;1;56pF;Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm
+C18,C19;2;10nF;Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm
+C22;1;220uF 25V;Capacitor_THT:CP_Radial_D8.0mm_P3.50mm
+C23;1;4.7uF 10V;Capacitor_THT:CP_Radial_D6.3mm_P2.50mm
+C24,C26,C28,C29;4;47nF;Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm
+C25;1;220uF 16V;Capacitor_THT:CP_Radial_D8.0mm_P3.50mm
+C27,C32;2;1000uF 25V;Capacitor_THT:CP_Radial_D10.0mm_P5.00mm
+C33;1;10uF 16V;Capacitor_THT:CP_Radial_D6.3mm_P2.50mm
+D1,D2,D3,D4,D6;5;1N4148;Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal
+D5;1;1N4001;Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal
+FL1;1;LT455GW;-RF Components:LT455GW
+H1,H2,H3,H4;4;MountingHole_Pad;MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom
+HS1;1;Heatsink;-Heatsink_other:Heatsink_Assmann_V6560X_29.4X12
+J1;1;RF IN;-Connector_coaxial:SMA_Amphenol_901-144_Vertical
+J2;1;AGC;Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical
+J3;1;VFO IN;-Connector_coaxial:SMA_Amphenol_901-144_Vertical
+J4;1;BFO;Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical
+J5;1;BF OUT;Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical
+J6;1;S-Meter;Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical
+J7;1;BFO_IN;-Connector_coaxial:SMA_Amphenol_901-144_Vertical
+J8;1;SPEAKER;Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical
+J9;1;GND +5V +9V +12;Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical
+K1,K2;2;G5V-1;Relay_THT:Relay_SPDT_Omron_G5V-1
+L1;1;10uH;Inductor_THT:L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2
+Q1;1;BF245B;Package_TO_SOT_THT:TO-92_Inline
+Q2,Q4;2;BC547;Package_TO_SOT_THT:TO-92_Inline
+Q3;1;BC548;Package_TO_SOT_THT:TO-92_Inline
+R1,R2;2;100;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal
+R3;1;470;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal
+R4;1;2,2K;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal
+R5,R11;2;1,2K;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal
+R6,R7,R10;3;22;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal
+R8;1;15;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal
+R9;1;18k;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal
+R12;1;2.2;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal
+R13;1;220;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal
+R14,R15;2;2.2k;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal
+R16;1;1;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal
+R17;1;10;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal
+RV1;1;2.2K;Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical
+RV2,RV4;2;2K;-Trimmer:Potentiometer_Runtron_RM-065_Vertical
+RV3;1;47k;Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical
+RV5;1;10k;-Trimmer:Potentiometer_Runtron_RM-065_Vertical
+TR1;1;455KHz NERA;-RF Components:TR TOKO 10x10
+TR2;1;455KHz BIANCA;-RF Components:TR TOKO 10x10
+U1;1;TDA1572;Package_DIP:DIP-18_W7.62mm
+U2;1;SA602;Package_DIP:DIP-8_W7.62mm
+U3;1;TDA2003;Package_TO_SOT_THT:TO-220-5_P3.4x3.7mm_StaggerOdd_Lead3.8mm_Vertical
+U4;1;LM386;Package_DIP:DIP-8_W7.62mm
+U5;1;LM78L05_TO92;Package_TO_SOT_THT:TO-92_Inline
